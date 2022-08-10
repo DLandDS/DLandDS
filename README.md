@@ -13,11 +13,11 @@ Contacts
 ------------------
 
 [![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/sdmsaputta/create-a-custom-minecraft-plugin-for-bukkit-spigotmc-papermc) 
-[![Mail](https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kalepratik@protonmail.com) 
+[![Mail](https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kimsoohyun1344@gmail.com) 
  
  ### Github Statistic
 <p align="left">
-<a href="https://github.com/alifhanafiah">
+<a href="https://github.com/DLandDS">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DLandDS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DLandDS&layout=compact&langs_count=8&theme=algolia"/>
 </a>
