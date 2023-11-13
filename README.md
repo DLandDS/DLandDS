@@ -4,7 +4,7 @@ Hi 👋 My name is Dlands Volka
 SpigotMc Developer
 ------------------
 
-I have graduated majoring in Computer Engineering at UPI YPTK Padang. I've been working as a spigot developer since 2021.
+I have graduated majoring in Computer Engineering at UPI YPTK Padang. I am working at Lung West Sumatera Hospital as Full Stack Developer.
 
 * 🌍 I'm based in Indonesia
 * 💻 I'm a member of Clyatge Core Team
