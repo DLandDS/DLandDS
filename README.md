@@ -7,7 +7,7 @@ SpigotMc Developer
 I have graduated majoring in Computer Engineering at UPI YPTK Padang. I am working at Lung West Sumatera Hospital as Full Stack Developer.
 
 * 🌍 I'm based in Indonesia
-* 💻 I'm a member of Clyatge Core Team
+* 💻 I'm a member of Stegripe Core Team
 
 Contacts
 ------------------
