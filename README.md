@@ -7,6 +7,7 @@ SpigotMc Developer
 I have graduated majoring in Computer Engineering at UPI YPTK Padang. I am working at Lung West Sumatera Hospital as Full Stack Developer.
 
 * 🌍 I'm based in Indonesia
+* 🎮 Part of ForgeForce Developement Team
 
 Contacts
 ------------------
