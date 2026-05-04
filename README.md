@@ -12,7 +12,7 @@ I have graduated majoring in Computer Engineering at UPI YPTK Padang. I am worki
 Contacts
 ------------------
 
-[![Mail](https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kimsoohyun1344@gmail.com) 
+[![Mail](https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:admin@dlands.me) 
  
  ### Github Statistic
 <p align="left">
